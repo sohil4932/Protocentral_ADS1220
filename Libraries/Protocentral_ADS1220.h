@@ -1,9 +1,9 @@
 //#ifndef ads1292r_h
 //#define ads1292r_h
 
-#include "Arduino.h"
+//#include "Arduino.h"
 
-#include "SPI.h" // necessary library
+//#include "SPI.h" // necessary library
 
 #define SPI_MASTER_DUMMY   0xFF
 #define RESET 0x06                                                    //Send the RESET command (06h) to make sure the ADS1220 is properly reset after power-up
